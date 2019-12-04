@@ -1,0 +1,76 @@
+﻿ body{
+      font-family:Arial,Times,Sans-serif;
+      background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWtslPkeX8B63YMoYrgs-EdwJdM2q-Gl5-Q8PRy4FrcUzpAdaAmg&s);
+      background-size: cover;
+
+}
+
+   header{
+        background-color:black;
+      background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8VFFWZ_MAGhSb7cuo5r54-uyE0Lsubiui8dhLJQ1bcUYDaM1XQ&s);
+      background-size: cover;
+            color:black;
+            width:80%;
+            margin-left:auto;
+            margin-right:auto;
+            text-align:left;
+            padding:10px; 
+            overflow:hidden;
+
+}
+
+hgroup{
+   width: 70%
+   float:left;
+}
+
+nav{
+  width:30%;
+  float:right;    
+
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav li{
+    color: white;
+    float: left;
+    margin-right:10px;
+
+}
+
+h1{
+  line-height:5px;
+  font-size:1.2em;
+}
+hgroup h1{
+          font-size:3em
+}
+   section{
+         background-color:white;
+        
+            width:80%;
+            margin-left:auto;
+            margin-right:auto;
+            border-width:5px;
+            border-style:solid;
+            border-color:black;
+            padding:5px;            
+
+}
+
+   footer{
+           
+          background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWtslPkeX8B63YMoYrgs-EdwJdM2q-Gl5-Q8PRy4FrcUzpAdaAmg&s);
+      background-size: cover;
+            color:white;
+            width:80%;
+            margin-left:auto;
+            margin-right:auto;
+            padding:10px;
+           
+
+
+}
